@@ -1,0 +1,13 @@
+# Build artifacts
+lib/
+llama.cpp/build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Models (too large for git)
+models/
+*.gguf
+
