@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dokku-ai/alpaca/bindings"
+	"github.com/matthiase/alpaca/bindings"
 )
 
 func main() {

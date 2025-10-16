@@ -1,3 +1,3 @@
-module github.com/dokku-ai/alpaca
+module github.com/matthiase/alpaca
 
 go 1.25.1

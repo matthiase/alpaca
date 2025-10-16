@@ -21,7 +21,7 @@ sudo apt install build-essential cmake libcurl4-openssl-dev
 Clone the repository:
 
 ```
-git clone --recurse-submodules https://github.com/dokku-ai/alpaca
+git clone --recurse-submodules https://github.com/matthiase/alpaca
 ```
 
 Note: This repository uses git sub modules to track [LLama.cpp](https://github.com/ggerganov/llama.cpp).
@@ -50,4 +50,3 @@ That's it! For more detailed notes see [notes.md](notes.md)
 ## Next Steps
 
 * Set up a Github action that builds the Go package for Linux, Windows and MacOS
-
